@@ -1,2 +1,9 @@
-# A.M.B.S
-Arbitrary Martingale Betting System
+# Arbitrary Martingale Betting System
+### Summary
+## Inspiration
+## Application
+## Advantages
+## Disadvantages
+## Mathematical Proofs
+## Extra Discussion 
+
