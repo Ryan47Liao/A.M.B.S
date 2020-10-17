@@ -1,5 +1,5 @@
 # Arbitrary Martingale Betting System
-### Summary
+## Summary
 ## Inspiration
 ## Application
 ## Advantages
