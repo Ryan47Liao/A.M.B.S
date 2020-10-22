@@ -35,8 +35,8 @@ Which is Almost Identical to what we've got now! And the Proof is absolutely Nea
 ![RLT](https://www.liveabout.com/thmb/IgNSqSq25vXZJHs7WeJv4FyAeBc=/1500x1000/filters:fill(auto,1)/RouletteTable-58c2bb9a5f9b58af5c9ea220.jpg)
 3. **And More**... There are so many games in the CASINO that supports AMBS. As long the game meets the following criteria:
 - [x] Given Wining Rates (Or Estimatble ones like Black Jack)
-- [x] You have control on your Bets (Although some have ceilling and floors, the program takes care of that for you!)
-- [x] The Pay Off is Constant , or at least estimatble (Not like Texas hold 'em that the pay off is completly undetermined)
+- [x] You have control over your Bets (Although some have ceiling and floors, the program takes care of that for you!)
+- [x] The Pay Off is Constant, or at least estimate (Not like Texas hold 'em that the pay off is completely undetermined)
 
 You are good to Go! That been said, the application of A.M.B.S actually extends outside of the Casino. Since Stock Markets alike to fulfill the above descriptions in away. Personally, however, I have not looked into this field and I encourage you to explore its potential possibilities!
 ![Stock_Market](https://api.time.com/wp-content/uploads/2020/03/stock-market-coronavirus-2.jpg)
@@ -45,12 +45,12 @@ You are good to Go! That been said, the application of A.M.B.S actually extends 
 https://www.youtube.com/watch?v=8lXoNoNbVKI&t=16s
 
 ## Advantages
-- [x] **Profitable**: If you have enough bankroll, AMBS is actually superior than some Financial Bundles. Consider this, some Financial Bundles offers you 20%-30% return over about a year and still have a volatile chance of losing all your investment. AMBS empowers you to get returns ranging from 1% to 100% instantly, and the risk, just like the pay off is completly managable. 
-- [x] **Simplicity**: You do not need to watch reports, studuy a company, practice skills, etc. Just put in the varible and follow the "Bet Sequence" to bet your each bet, it's as simple as that! 
+- [x] **Profitable**: If you have enough bankroll, AMBS is actually superior to some Financial Bundles. Consider this, some Financial Bundles offer you a 20%-30% return over about a year and still have a volatile chance of losing all your investment. AMBS empowers you to get returns ranging from 1% to 100% instantly, and the risk, just like the pay off is completely manageable.
+- [x] **Simplicity**: You do not need to watch reports, study a company, practice skills, etc. Just put in the variable and follow the "Bet Sequence" to bet your every bet, it's as simple as that!
 
 ## Disadvantages
-- [ ] **Negative Expected Value**: To be Honest with you, you can not rely your income on AMBS and quit your jobs. No matter how advanced this program is (Not to mention it's really simple), it would never change the fact that all games in the Cascino are designed so that it has negative expected value. In other words, you might win moeny from time to time, but if you keep playing, the amount you lose in long run eventually outweights your income. 
-- [ ] **Protability**: This is improvable, but I doubt if the Cascino would just let you walk in with your computer and calculate the odds :D Good luck on that! (Online Cascinos are Safer) 
+- [ ] **Negative Expected Value**: To be honest with you, you can not rely on your income on AMBS and quit your jobs. No matter how advanced this program is (Not to mention it's really simple), it would never change the fact that all games in the Cascino are designed so that it has a negative expected value. In other words, you might win money from time to time, but if you keep playing, the amount you lose in long run eventually outweighs your income.
+- [ ] **Protability**: This is improvable, but I doubt if the Cascino would just let you walk in with your computer and calculate the odds :D Good luck with that! (Online Casinos are Safer)
 
 ## 【Appendix_A】 Mathematical Proofs
 1. https://drive.google.com/file/d/11LMRiHsOEeMKJIc7Xyqetqv7x536ML2D/view?usp=sharing
