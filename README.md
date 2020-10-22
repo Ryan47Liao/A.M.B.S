@@ -1,5 +1,5 @@
 # Arbitrary Martingale Betting System
-![MBS Intro](https://www.linkpicture.com/q/3Martingale-betting-system.png)
+![MBS Intro](https://www.5paisa.com/school/Includes/Image/averaging/3Martingale%20betting%20system.jpg)
 
 ## Summary
 Arbitary Martingale Betting System is an algorithm that transforms betting options from discrete fixed rules into almost continous ranges that fully tailers your own needs. In a short word, it allows you to make the Rules yourself. With AMBS, Cascino can become you second place for investment. In this ReadMe, I will walk you through the history of Martingale, my inspirations, the adaptations applied, and applications along with mathematical proofs and other discussions. 
@@ -14,7 +14,7 @@ Traditional MBS, is indeed, as simple as above. The description above captrues t
 1. **Its Ideology** "Double you bet everytime you lose" is indeed a good way to put it, but it's far from accurate. In the case where the odd is 1:1, coin flips for instance, your action is indeed: Double your next bet. Since then if you win, you will win all your 'sink costs' back plus your initial bet. This **Ideology** is essential of MBS, and actually extends to all senarious which I will discuss in the following paragraphs: **Bet an amount such that, if you win, you would win all your 'sink costs' back plus your the amount of reward if you win the first time.** 
 2. **Infinite Wealth** Traditional MBS is often believed to be unpractical due to the shared belief that "One need to have infinite wealth to gurantee that MBS will eventually work". This belif, I assume come from the experiences of the players from 18th century who have little to none grasp of probability theory. Although the WikiPedia description about how the "Bet" grows expoentially and it's possible that someone is very unlucky and keep losing straight up are **Both True**, infitie wealth is **NOT Necessay**. In the traditional approch, MBS is like the following: WHILE you have not win for once, keep adding your bet so that *"if you win, you would win all your 'sink costs' back plus your the amount of reward if you win the first time."* However, an adaptation can be made: observing the stake (amount of investment) you wish to spend, and divide the stake in a way it supports **n** consecutive failures. I will explain this in full detail in the upcoming sections.
 
-![Inspiration](https://www.linkpicture.com/q/lightbulb.png))
+![Inspiration](https://miro.medium.com/max/1200/1*K0w6c8Mv7V80iwgWjSK0Zg.jpeg)
 ## Inspiration
 I remember it was the first year as a Math major and I took my first programing course (Matlab was the first program language I learned). It so happended that I was taking a Math class about Finance, Arbitarge and sutff plus a intro level of statistics. Back then, I did NOT know anything about MBS, do not know that it exist, but an interesting (at least for me) thought experiment captured my attention for almost an entire afternoon:"If you roll a dice, there is a 1/6 chance that you will get '1', then how many times you need to roll to "guarantee" that you get at least one '1'?"  Before I take the stats course, I would probability answer 6, as it appears to be the only number in the question and it sort of 'make sense'. That, is completly errouns however. In fact, to be 99% certain that you will get at least one 6, you will need to roll 25.259 times!!! Since I have derived the formula for **n** as the number of times to roll, to archive **cp**(cumulative probability) at **p**: n(p,cp) = <img src="https://render.githubusercontent.com/render/math?math=\frac{ln(1-cp)}{ln(1-p)}"> (For proof details see *Appendix_A_1*). 
 
@@ -29,6 +29,18 @@ So that's it! You do not need to be infinitly wealthy to take advantage of the M
 Which is Almost Identical to what we've got now! And the Proof is absolutly Neat. If you wish to see the entire derivation of this essential formula, please do not hesitate to go Directly to 【Appendix_A】. I will meet you there! 
   
 ## Application
+1. **Black Jack** is automatically the place to start! With 1:1 pay off rates, you can apply traditional Martingale Betting System even without the help of an algorithm! Although this game do require a certain degree of technique, you can simply assume that **Probability to win: 42.22%** and derive your betting Sequnce based on your bank rolls.
+![Black Jack](https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fdam%2Fimageserve%2F1051931270%2F0x0.jpg%3Ffit%3Dscale)
+2. **Roulette** is my favoriate game of which I can apply A.M.B.S over. It's the *PERFECT* Game for AMBS: It's pay offs ranging from simple 2 to 35, combined with AMBS, offers an almost contious plan where you can choose from. This game has no operation and so you can only focusing on your schemes. Dividing your bankroll however you like to archieve the ideal outcome with CONFIDENCE!
+![RLT](https://www.liveabout.com/thmb/IgNSqSq25vXZJHs7WeJv4FyAeBc=/1500x1000/filters:fill(auto,1)/RouletteTable-58c2bb9a5f9b58af5c9ea220.jpg)
+3. **And More**... There are so many games in the CASCINO that supports AMBS. As long the game meet the following creteria: 
+- [x] Given Wining Rates (Or Estimatble ones like Black Jack)
+- [x] You have control on your Bets (Although some have ceilling and floors, the program takes care of that for you!)
+- [x] The Pay Off is Constant , or at least estimatble (Not like Texas hold 'em that the pay off is completly undetermined)
+
+You are good to Go! That been said, the application of A.M.B.S actually extends outside of the Casino. Since Stock Markets alike to fulfill the above descriptions in a way. Personally however, I have not looked into this filed and I encourage you to explore its potential possibilities! 
+![Stock_Market](https://api.time.com/wp-content/uploads/2020/03/stock-market-coronavirus-2.jpg)
+
 ## Advantages
 ## Disadvantages
 ## 【Appendix_A】 Mathematical Proofs
