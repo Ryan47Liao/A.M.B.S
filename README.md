@@ -41,8 +41,22 @@ Which is Almost Identical to what we've got now! And the Proof is absolutly Neat
 You are good to Go! That been said, the application of A.M.B.S actually extends outside of the Casino. Since Stock Markets alike to fulfill the above descriptions in a way. Personally however, I have not looked into this filed and I encourage you to explore its potential possibilities! 
 ![Stock_Market](https://api.time.com/wp-content/uploads/2020/03/stock-market-coronavirus-2.jpg)
 
-## Advantages
-## Disadvantages
-## 【Appendix_A】 Mathematical Proofs
-## 【Appendix_B】 Extra Discussion 
+## Program Tutorial  
+https://www.youtube.com/watch?v=8lXoNoNbVKI&t=16s
 
+## Advantages
+- [x] **Profitable**: If you have enough bankroll, AMBS is actually superior than some Financial Bundles. Consider this, some Financial Bundles offers you 20%-30% return over about a year and still have a volatile chance of losing all your investment. AMBS empowers you to get returns ranging from 1% to 100% instantly, and the risk, just like the pay off is completly managable. 
+- [x] **Simplicity**: You do not need to watch reports, studuy a company, practice skills, etc. Just put in the varible and follow the "Bet Sequence" to bet your each bet, it's as simple as that! 
+
+## Disadvantages
+- [ ] **Negative Expected Value**: To be Honest with you, you can not rely your income on AMBS and quit your jobs. No matter how advanced this program is (Not to mention it's really simple), it would never change the fact that all games in the Cascino are designed so that it has negative expected value. In other words, you might win moeny from time to time, but if you keep playing, the amount you lose in long run eventually outweights your income. 
+- [ ] **Protability**: This is improvable, but I doubt if the Cascino would just let you walk in with your computer and calculate the odds :D Good luck on that! (Online Cascinos are Safer) 
+
+## 【Appendix_A】 Mathematical Proofs
+1. https://drive.google.com/file/d/11LMRiHsOEeMKJIc7Xyqetqv7x536ML2D/view?usp=sharing
+2. https://drive.google.com/file/d/11LMRiHsOEeMKJIc7Xyqetqv7x536ML2D/view?usp=sharing
+3. Final Proof for the Series:https://drive.google.com/file/d/1YenFiljygGDkQOfC4_ezPG9PQZeVadkd/view?usp=sharing
+## 【Appendix_B】 Extra Discussion 
+1. **Arbitraging w/ a Random Guy**TBA
+2. **Altering the Utility Function**
+3. **Applications in the Financial World**TBA
